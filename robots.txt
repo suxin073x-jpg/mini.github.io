@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://suxin073x-jpg.github.io/mini.github.io/sitemap.xml
